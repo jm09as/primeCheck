@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+#title {
+	font-weight: lighter;
+}
+
+#body {
+	background: #d8d8d8;
+}
+
+h2 {
+	font-family: cursive;
+	font-size: 35px;
+	text-align: center;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 7px;
+	padding: 10px;
+	background-color: #aabbfd;
+	text-align: center;
+}
+
+.primeBox {
+	margin-left: 33%;
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	width: 30%;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 7px;
+	padding: 12px;
+	background-color: #aabbfd;
+}
+
+#question {
+	font-size: 25px;
+	font-weight: bold;
+}
+
+#put:hover {
+	background: #ffbdbd;
+}
+
+#button {
+	padding: 8px;
+	border-radius: 7px;
+	margin: 7px;}
+
+#button:hover {
+	background: #ffbdbd;
+	border-radius: 7px;
+	margin: 7px;
+}
